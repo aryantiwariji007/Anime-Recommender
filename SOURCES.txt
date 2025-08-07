@@ -1,0 +1,12 @@
+setup.py
+ANIME_RECOMMENDER.egg-info/PKG-INFO
+ANIME_RECOMMENDER.egg-info/SOURCES.txt
+ANIME_RECOMMENDER.egg-info/dependency_links.txt
+ANIME_RECOMMENDER.egg-info/requires.txt
+ANIME_RECOMMENDER.egg-info/top_level.txt
+ANIME_RECOMMENDER.egg-info/app/__init__.py
+ANIME_RECOMMENDER.egg-info/config/__init__.py
+ANIME_RECOMMENDER.egg-info/utils/__init__.py
+ANIME_RECOMMENDER.egg-info/utils/custom_exception.py
+ANIME_RECOMMENDER.egg-info/utils/logger.py
+src/__init__.py
