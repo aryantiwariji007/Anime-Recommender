@@ -2,3 +2,8 @@ ANIME_RECOMMENDER.egg-info/
 logs/
 venv/
 .env
+dependency_links.txt
+PKG-INFO
+SOURCES.txt
+top_level.txt
+AI+Anime+Recommender+Workflow.png
